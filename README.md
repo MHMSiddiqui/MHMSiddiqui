@@ -1,4 +1,5 @@
-# Mohammed Habeeb Mohsin Siddiqui
+<div align="center">
+  # Mohammed Habeeb Mohsin Siddiqui
 
 ### 🚀 Data Science & Generative AI Enthusiast
 
