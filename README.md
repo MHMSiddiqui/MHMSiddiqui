@@ -14,7 +14,7 @@
 I am a Computer Science undergraduate with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**.I have a solid foundation in Python, SQL, and modern AI frameworks, with hands-on experience in building LLM-powered applications and end-to-end machine learning solutions.I am passionate about translating real-world business problems into scalable, data-driven systems.
 
 ---
-<div align="right">
+<div align="left">
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Languages
