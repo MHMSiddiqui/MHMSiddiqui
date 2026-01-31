@@ -16,7 +16,8 @@ I am a Computer Science undergraduate with a strong focus on **Data Science**, *
 
 ---
 <div align="left">
-## 🛠️ Technical Skills
+
+ ## 🛠️ Technical Skills
 
 ### 💻 Programming & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
