@@ -30,7 +30,7 @@ I am a Computer Science undergraduate with a strong focus on **Data Science**, *
 
 **Bachelor of Technology in Computer Science and Engineering**
 *Jawaharlal Nehru Technological University, Hyderabad* | *2022 - 2026*
-* **CGPA:** 8.2/10.0 
+<!-- * **CGPA:** 8.2/10.0 -->
 * **Focus:** Data Science, Machine Learning, and AI Fundamentals.
 * **Coursework:** Machine Learning Algorithms, Deep Learning, NLP, Databases, Statistical Analysis.
 
