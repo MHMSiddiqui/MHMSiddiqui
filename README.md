@@ -1,10 +1,10 @@
 <div align="center">
  
- # **Mohammed Habeeb** 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=header&text=HABEEB%20MOHSIN&fontSize=40&fontColor=ffffff" />
  
 
 ### 🚀 Data Science & Generative AI Enthusiast
-* 🌍  I'm based in India
+ 🌍  I'm based in India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habeeb-mohsin-b29225254)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mhmsiddiquil7@gamil.com)
@@ -41,4 +41,6 @@ I am a Computer Science undergraduate with a strong focus on **Data Science**, *
 I'm always open to discussing new projects, creative ideas, or opportunities in the AI space.
 
 * **Email:** [mhmsiddiquil7@gamil.com](mailto:mhmsiddiquil7@gamil.com)
-* **LinkedIn:** [Habeeb Mohsin](www.linkedin.com/in/habeeb-mohsin-b29225254) 
+* **LinkedIn:** [Habeeb Mohsin](www.linkedin.com/in/habeeb-mohsin-b29225254)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=footer&fontColor=ffffff" />
