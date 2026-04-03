@@ -1,6 +1,6 @@
 <div align="center">
  
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0f2027&height=200&section=header&text=HABEEB%20MOHSIN&fontSize=40&fontColor=ffffff" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,111:ffffed&height=200&section=header&text=HABEEB%20MOHSIN&fontSize=50&fontColor=000000" />
  
 
 ### 🚀 Data Science & Generative AI Enthusiast
@@ -43,4 +43,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities in 
 * **Email:** [mhmsiddiquil7@gamil.com](mailto:mhmsiddiquil7@gamil.com)
 * **LinkedIn:** [Habeeb Mohsin](www.linkedin.com/in/habeeb-mohsin-b29225254)
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0f2027&height=200&section=footer&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,111:ffffed&height=200&section=footer&fontColor=ffffff" />
